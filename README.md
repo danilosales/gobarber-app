@@ -37,7 +37,7 @@
 
 ## 💇🏻‍♂️ About the project
 
-This ap provides everything needed to organize appointments between the barbers and customers.
+This app provides everything needed to organize appointments between the barbers and customers.
 
 Customers can choose the best time available to them.
 
